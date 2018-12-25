@@ -3,6 +3,6 @@
 Rolling Wave For Recording And Playing Audio.
 ------------------
 ------------------
-![](https://github.com/liangqiubing/AudioRollingWave/blob/master/AudioRollingWave.gif)
+![](https://github.com/liangqiubing/AudioRollingWave/raw/master/AudioRollingWave.gif)
 
 
