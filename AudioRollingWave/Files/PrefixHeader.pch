@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  AudioRollingWave
+//
+//  Created by 梁秋炳 on 2017/12/14.
+//  Copyright © 2017年 梁秋炳. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#if __OBJC__
+
+#import "UIView+Frame.h"
+#import "Common.h"
+
+#endif
+
+#endif /* PrefixHeader_pch */
